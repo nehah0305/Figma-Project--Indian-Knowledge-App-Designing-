@@ -3,7 +3,8 @@ The Indian Knowledge App Designing project presents an engaging mobile interface
 
 LOGO:
 The logo is shaped like a lotus, symbolizing India’s national flower. Its vibrant yellow and red colors draw inspiration from haldi and kumkum—traditional elements deeply rooted in Indian culture—while also reflecting resilience and cultural identity.
-<img width="287" height="254" alt="image" src="https://github.com/user-attachments/assets/021db56f-e014-4178-b7c7-34a71f380ada" />
+
+  <img width="287" height="254" alt="image" src="https://github.com/user-attachments/assets/021db56f-e014-4178-b7c7-34a71f380ada" />
 
 
 KEY FEATURES:
