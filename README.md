@@ -8,17 +8,27 @@ The logo is shaped like a lotus, symbolizing India’s national flower. Its vibr
 
 
 KEY FEATURES:
+
   -Secure Login
+  
   -Latest Announcements
+  
   -Event Dashboard
+  
   -Policy and Guidelines Page
+  
   -Funding Opportunity Page
+  
   -Interactive Photo Gallery
 
 TOOLS USED:
+
   -Unsplash for high-quality images
+  
   -Iconify for icons
+  
   -Figma Effects for enhanced visual design
 
 PROTOTYPING:
+
 Interactive prototyping ensures a smooth user flow and a realistic preview of the application experience.
