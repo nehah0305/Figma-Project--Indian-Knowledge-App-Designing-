@@ -25,3 +25,6 @@ TOOLS USED:
 PROTOTYPING:
 
 Interactive prototyping ensures a smooth user flow and a realistic preview of the application experience.
+
+<img width="991" height="536" alt="Screenshot 2025-09-04 194319" src="https://github.com/user-attachments/assets/bcb42ae8-96f2-43bb-a4c7-632527c27bfc" />
+
